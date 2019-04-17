@@ -12,9 +12,9 @@ Connected my [LED string lights](https://www.amazon.com/s?k=led+string+lights&re
 
 **Circuit diagram:**
 <br>
-<img src="circuitdiagram.png" width="600"/>
+<img src="circuit.png" width="600"/>
 <br>
-This was the best circuit diagram I could draw
+
 
 
 ### Installation

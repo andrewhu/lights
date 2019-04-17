@@ -15,6 +15,10 @@ Connected my [LED string lights](https://www.amazon.com/s?k=led+string+lights&re
 <img src="circuit.png" width="600"/>
 <br>
 
+What it would look like if you built it:
+<br>
+<img src="circuitdiagram.png" width="600"/>
+<br>
 
 
 ### Installation

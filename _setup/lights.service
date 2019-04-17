@@ -1,0 +1,14 @@
+[Unit]
+Description=Gunicorn instance to serve lights
+After=network.target
+
+[Service]
+User=andrew
+Group=www-data
+WorkingDirectory=/home/andrew/lights/
+Environment="PATH=/home/andrew/lights/venv/bin"
+ExecStart=/home/andrew/lights/venv/bin/gunicorn --workers 3 --bind unix:lights.sock -m 007 wsgi:app
+
+[Install]
+WantedBy=multi-user.target
+

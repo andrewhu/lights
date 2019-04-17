@@ -1,5 +1,5 @@
 # lights
-Connected my [LED string lights](https://www.amazon.com/s?k=led+string+lights&ref=nb_sb_noss_1) to the internet so I can control the brightness from my phone. Keeping my code here so it doesn't get lost
+Connected my [LED string lights](https://www.amazon.com/s?k=led+string+lights&ref=nb_sb_noss_1) to the internet so I can control the brightness from my phone since getting out of bed is inconvenient. Keeping my code here so it doesn't get lost
 
 
 ### Physical circuit

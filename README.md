@@ -9,8 +9,12 @@ Connected my [LED string lights](https://www.amazon.com/s?k=led+string+lights&re
 * **WiFi Arduino board** The one I used is the ESP8266, just look up "WiFi board" on amazon. It's about $12 for a pack of 2.
 * **MOSFET Transistor** to control the brightness
 
-**Wiring diagram:**  
-will do later
+**Circuit diagram:**
+<br>
+<img src="circuitdiagram.png" width="600"/>
+<br>
+This was the best circuit diagram I could draw
+
 
 ### Installation
 Clone repo

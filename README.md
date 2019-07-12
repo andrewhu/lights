@@ -1,13 +1,13 @@
 # lights
-Connected my [LED string lights](https://www.amazon.com/s?k=led+string+lights&ref=nb_sb_noss_1) to the internet so I can control the brightness from my phone since getting out of bed is inconvenient. Keeping my code here so it doesn't get lost
+Controlling [LED string lights](https://www.amazon.com/s?k=led+string+lights&ref=nb_sb_noss_1) through IoT. 
 
 
 ### Physical circuit
 
 **You will need:**
-* **LED string lights** bought some on eBay, can also prob also find some on Amazon
-* **WiFi Arduino board** The one I used is the ESP8266, just look up "WiFi board" on amazon. It's about $12 for a pack of 2.
-* **MOSFET Transistor** to control the brightness
+* **LED string lights** I bought mine on ebay.
+* **WiFi Arduino board** The one I used is the ESP8266 ($12 for 2). Look up "WiFi board" on amazon. 
+* **MOSFET Transistor** Acts as a controllable resistor
 * **Resistor** I used a 220 ohm resistor. 
 
 **Circuit diagram:**
@@ -15,7 +15,7 @@ Connected my [LED string lights](https://www.amazon.com/s?k=led+string+lights&re
 <img src="circuit.png" width="600"/>
 <br>
 
-What it would look like if you built it:
+Or if you can't read circuit diagrams like me:
 <br>
 <img src="circuitdiagram.png" width="600"/>
 <br>

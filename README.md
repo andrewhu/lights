@@ -1,5 +1,5 @@
-# lights
-Controlling [LED string lights](https://www.amazon.com/s?k=led+string+lights&ref=nb_sb_noss_1) through IoT. 
+# IoT String Lights
+Connecting LED string lights to a wifi board.  
 
 
 ### Physical circuit
@@ -11,14 +11,9 @@ Controlling [LED string lights](https://www.amazon.com/s?k=led+string+lights&ref
 * **Resistor** I used a 220 ohm resistor. 
 
 **Circuit diagram:**
-<br>
-<img src="circuit.png" width="600"/>
-<br>
 
-Or if you can't read circuit diagrams like me:
-<br>
-<img src="circuitdiagram.png" width="600"/>
-<br>
+<img src="circuit.png" width="600"/>
+
 
 
 ### Installation
